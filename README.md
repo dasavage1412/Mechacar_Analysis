@@ -1,4 +1,4 @@
-# Mechacar_Analysis
+# MechaCar_Analysis
 An analysis of Mecha car suspension comparing performance to rivals
 
 ## Linear Regression to Predict
