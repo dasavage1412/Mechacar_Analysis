@@ -28,7 +28,7 @@ Above is the T.Test for all three lots combined. The combined varience is larger
 ![image](https://user-images.githubusercontent.com/77762219/119254141-945cc500-bb69-11eb-91f0-f8fe9f9f87b3.png)
 This is the breakout of each lot compared to the mean of 1500 PSI. 95% of all results of all three lost are within 10PSI. There is no significant outlier
 
-## Study Design: MechaCar vs Compentition
+## Study Design: MechaCar vs Comp.
 ### Assumptions
 To create an interesting test I am going to make a couple key assumptions. MechaCar makes high-end sports cars. For this example MechaCar has a cutting edge areo-Dynamic design. that it wants to promote over the compentition. We will be using Track measurements not daily driving numbers. It will be the same driver with different cars and body kits on the same track under simular conditions for each run.
 
